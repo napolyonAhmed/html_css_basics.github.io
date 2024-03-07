@@ -1,0 +1,46 @@
+
+.container{
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    gap: 2px;
+    
+    
+   
+   
+}
+
+
+.my-photo{
+    width: 120px;
+    border-radius: 100%;
+
+}
+
+
+.left-side{
+    width: 520px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+   gap: 20px;
+   background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    align-self: stretch;
+}
+.cv-information{
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 60%;
+    object-fit:contain
+}
+.cert-logo{
+    justify-content: space-around;
+}
