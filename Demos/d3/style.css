@@ -67,3 +67,17 @@ a:visited{
 	justify-content: space-between;
 
 }
+footer{
+	background-color: black;
+	height: 100px;
+}
+.container{
+	height: 600px;
+}
+p{
+	color: white;
+	font-size: 22px;
+}
+button{
+	border: solid gray;
+}
